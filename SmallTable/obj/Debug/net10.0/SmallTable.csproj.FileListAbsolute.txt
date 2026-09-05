@@ -1,0 +1,16 @@
+C:\dev\smalltable\SmallTable\SmallTable\bin\Debug\net10.0\SmallTable.deps.json
+C:\dev\smalltable\SmallTable\SmallTable\bin\Debug\net10.0\SmallTable.dll
+C:\dev\smalltable\SmallTable\SmallTable\bin\Debug\net10.0\SmallTable.pdb
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.AssemblyInfoInputs.cache
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.AssemblyInfo.cs
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.csproj.CoreCompileInputs.cache
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.dll
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\refint\SmallTable.dll
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.pdb
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\ref\SmallTable.dll
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.sourcelink.json
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.csproj.AssemblyReference.cache
+C:\dev\smalltable\SmallTable\SmallTable\bin\Debug\net10.0\SmallTable.Util.dll
+C:\dev\smalltable\SmallTable\SmallTable\bin\Debug\net10.0\SmallTable.Util.pdb
+C:\dev\smalltable\SmallTable\SmallTable\obj\Debug\net10.0\SmallTable.csproj.Up2Date

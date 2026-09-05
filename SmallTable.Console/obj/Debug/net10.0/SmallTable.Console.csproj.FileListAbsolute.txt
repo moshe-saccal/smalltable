@@ -1,0 +1,15 @@
+C:\dev\smalltable\SmallTable\SmallTable.Console\bin\Debug\net10.0\SmallTable.Console.exe
+C:\dev\smalltable\SmallTable\SmallTable.Console\bin\Debug\net10.0\SmallTable.Console.deps.json
+C:\dev\smalltable\SmallTable\SmallTable.Console\bin\Debug\net10.0\SmallTable.Console.runtimeconfig.json
+C:\dev\smalltable\SmallTable\SmallTable.Console\bin\Debug\net10.0\SmallTable.Console.dll
+C:\dev\smalltable\SmallTable\SmallTable.Console\bin\Debug\net10.0\SmallTable.Console.pdb
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.AssemblyInfoInputs.cache
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.AssemblyInfo.cs
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.csproj.CoreCompileInputs.cache
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.sourcelink.json
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.dll
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\refint\SmallTable.Console.dll
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.pdb
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\SmallTable.Console.genruntimeconfig.cache
+C:\dev\smalltable\SmallTable\SmallTable.Console\obj\Debug\net10.0\ref\SmallTable.Console.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmallTable.Console/SmallTable.Console.csproj" />
+  <Project Path="SmallTable.Engine.Test/SmallTable.Engine.Test.csproj" />
+  <Project Path="SmallTable.Util/SmallTable.Util.csproj" />
+  <Project Path="SmallTable/SmallTable.csproj" />
+</Solution>
